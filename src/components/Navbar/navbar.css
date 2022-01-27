@@ -1,0 +1,25 @@
+.nav{
+    padding:2rem;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   background-color: #666;
+   height:15vh;
+}
+.logo{
+    font-size: 2rem;
+    color:white;
+}
+.menu{
+    display:flex;
+    padding:1rem;
+}
+li{
+    padding-left:1rem;
+}
+a{
+    color:white;
+}
+a:hover{
+    color: red;
+}

@@ -1,0 +1,21 @@
+.main{
+    height:75vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(219, 212, 212);
+    row-gap: 1rem;
+}
+h1{
+    font-size: 3rem;
+    font-family: "poppins semiBold";
+}
+p{
+    font-size: 1rem;
+    font-family: "poppins light";
+}
+.btns{
+    display:flex;
+    column-gap:1rem;
+}
